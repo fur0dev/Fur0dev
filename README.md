@@ -7,14 +7,19 @@
 ## 🔭 Currently Working On
 
 [![MangaRead](https://img.shields.io/static/v1?message=MangaRead&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/FloDevv/MangaRead)
+[![MoriohCho-Radio](https://img.shields.io/static/v1?message=MoriohCho-Radio&logo=github&label=&color=F74C00&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/FloDevv/MoriohCho-Radio)
 
 ## 🛠 Favorite Technologies
 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white)
+
+
 
 ## 🧰 Skills
 
