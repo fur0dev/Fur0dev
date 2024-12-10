@@ -6,7 +6,6 @@
 
 ## 🔭 Currently Working On
 
-[![MangaRead](https://img.shields.io/static/v1?message=MangaRead&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/FloDevv/MangaRead)
 [![MoriohCho-Radio](https://img.shields.io/static/v1?message=MoriohCho-Radio&logo=github&label=&color=F74C00&logoColor=white&labelColor=&style=for-the-badge)](https://github.com/FloDevv/MoriohCho-Radio)
 
 ## 🛠 Favorite Technologies
