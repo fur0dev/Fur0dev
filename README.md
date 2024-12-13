@@ -10,6 +10,7 @@
 </div>
 
 `[ ABOUT ME ]`
+
 <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; margin: 10px; width: 300px; background-color: #0d1117;">
 <table>
 <tr><td>
@@ -41,10 +42,10 @@ ROLE: FULL-STACK DEVELOPER
 
 `[ SYSTEM METRICS ]`
 
-<img src="https://github-readme-stats.vercel.app/api?username=FloDevv&show_icons=true&bg_color=0d1117&title_color=%0000f&text_color=ffffff&icon_color=00f&border_color=21262d&border_radius=6" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FloDevv&show_icons=true&theme=dark&bg_color=0d1117&title_color=00f&text_color=ffffff&icon_color=00f&border_color=21262d&border_radius=6)
 
 `[ LANGUAGE ANALYSIS ]`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloDevv&layout=compact&bg_color=0d1117&title_color=%2300f&text_color=ffffff&icon_color=00f&border_color=21262d&border_radius=6" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FloDevv&layout=compact&theme=dark&bg_color=0d1117&title_color=00f&text_color=ffffff&icon_color=00f&border_color=21262d&border_radius=6)
 
 </div>
