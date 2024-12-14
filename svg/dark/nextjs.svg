@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110.75" height="28" role="img" aria-label="NEXT.JS"><defs><style type="text/css">
+      @font-face {
+        font-family: 'DepartureMono Nerd Font';
+        src: url('../font/DepartureMonoNerdFont-Regular.otf') format('opentype');
+      }
+    </style></defs><title>NEXT.JS</title><g shape-rendering="crispEdges"><rect width="32" height="28" fill="#0e1116"/><rect x="32" width="78.75" height="28" fill="#0e1116"/></g><g fill="#fff" text-anchor="middle" font-family="DepartureMono Nerd Font, monospace" text-rendering="geometricPrecision" font-size="100"><image x="12" y="2" width="24" height="24" xlink:href="./logo/nextWhite.png"/><text transform="scale(.1)" x="713.75" y="175" textLength="547.5" fill="#fff" font-weight="bold">NEXT.JS</text></g></svg>
