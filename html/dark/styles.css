@@ -1,11 +1,14 @@
 @font-face {
+  font-family: "PressStart2P-Regular";
+  src: url("./PressStart2P-Regular.ttf") format("truetype");
+}
+@font-face {
   font-family: "NineteenNinetyThree-L1Ay";
   src: url("./NineteenNinetyThree-L1Ay.ttf") format("truetype");
 }
 
 * {
-  font-family: "NineteenNinetyThree-L1Ay", monospace;
-  /* remove webkit scrollbar */
+  font-family: "PressStart2P-Regular", monospace;
   scrollbar-width: none;
 }
 
@@ -14,9 +17,8 @@ body {
   padding: 0;
   background-color: #0d1116;
   color: #ffffff;
-  line-height: 1.3;
-  font-weight: bold;
-  font-size: 20px;
+  line-height: 1.5;
+  font-size: 18px;
   align-content: left;
 }
 .japanese {
@@ -27,7 +29,7 @@ fieldset {
   flex-direction: column;
   border: 3px solid #ffffff;
   margin-left: 50px;
-  max-width: 850px;
+  max-width: 1175px;
   background-color: rgba(13, 17, 23, 0.9);
 }
 
