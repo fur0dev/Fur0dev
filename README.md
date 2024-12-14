@@ -41,11 +41,11 @@ ROLE: FULL-STACK DEVELOPER
 <td style="border: none; width: 40%; vertical-align: top;">
 
 <div align="center" style="max-width: 300px;">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./svg/light/stack.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./svg/dark/stack.svg">
-  <img alt="Next.js" src="./svg/dark/stack.svg">
-</picture>
+  <picture>
+    <source srcset="./svg/light/stack.png" media="(prefers-color-scheme: light)">
+    <source srcset="./svg/dark/stack.png" media="(prefers-color-scheme: dark)">
+    <img src="./svg/dark/stack.png" alt="Technologies Stack" width="300">
+  </picture>
 </div>
 
 </td>
