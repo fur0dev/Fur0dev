@@ -1,0 +1,52 @@
+@font-face {
+  font-family: "NineteenNinetyThree-L1Ay";
+  src: url("./NineteenNinetyThree-L1Ay.ttf") format("truetype");
+}
+
+* {
+  font-family: "NineteenNinetyThree-L1Ay", monospace;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0d1116;
+  /* background-color: #58a6ff; */
+  color: #ffffff;
+  line-height: 1.6;
+  align-content: left;
+}
+.japanese {
+  font-family: "NineteenNinetyThree-L1Ay", sans-serif;
+}
+fieldset {
+  display: flex;
+  flex-direction: column;
+  border: 4px solid #ffffff;
+  margin-left: 50px;
+  max-width: 400px;
+  background-color: rgba(13, 17, 23, 0.9);
+}
+
+.terminal-box {
+  display: flex;
+  align-items: flex-start;
+  /* background-color: #0d1117;
+  border: 1px solid #30363d; */
+}
+
+.terminal-box::before {
+  content: ">";
+  margin-right: 14px;
+  /* color: rgb(0, 0, 255); */
+  font-weight: bold;
+}
+
+.pixel-border {
+  position: relative;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
