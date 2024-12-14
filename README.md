@@ -41,41 +41,13 @@ ROLE: FULL-STACK DEVELOPER
 <td style="border: none; width: 40%; vertical-align: top;">
 
 <div align="center" style="max-width: 300px;">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./svg/light/nextjs.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./svg/dark/nextjs.svg">
-  <img alt="Next.js" src="./svg/dark/nextjs.svg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=000000&labelColor=ffffff">
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-0d1116?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1116">
-  <img alt="React" src="https://img.shields.io/badge/React-0d1116?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1116">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=000000&labelColor=ffffff">
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-0d1116?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1116">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d1116?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1116">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Tailwind%20CSS-ffffff?style=for-the-badge&logo=tailwind-css&logoColor=000000&labelColor=ffffff">
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Tailwind%20CSS-0d1116?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1116">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-0d1116?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d1116">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/NestJS-ffffff?style=for-the-badge&logo=nestjs&logoColor=000000&labelColor=ffffff">
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NestJS-0d1116?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=0d1116">
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-0d1116?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=0d1116">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=000000&labelColor=ffffff">
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-0d1116?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1116">
-  <img alt="Python" src="https://img.shields.io/badge/Python-0d1116?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1116">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Rust-ffffff?style=for-the-badge&logo=rust&logoColor=000000&labelColor=ffffff">
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Rust-0d1116?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1116">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-0d1116?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1116">
-</picture>
+<p align="center">
+  <picture>
+    <source srcset="./svg/light/stack.svg" media="(prefers-color-scheme: light)">
+    <source srcset="./svg/dark/stack.svg" media="(prefers-color-scheme: dark)">
+    <img src="./svg/dark/stack.svg" alt="Technologies Stack" width="300">
+  </picture>
+</p>
 </div>
 
 </td>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" role="img" aria-label="TECHNOLOGIES">
+    <defs><style type="text/css">
+      @font-face {
+        font-family: 'DepartureMono Nerd Font';
+        src: url('../font/DepartureMonoNerdFont-Regular.otf') format('opentype');
+      }
+    </style></defs>
+    <title>TECHNOLOGIES</title>
+    <g fill="#000" text-anchor="middle" font-family="DepartureMono Nerd Font, monospace" text-rendering="geometricPrecision" font-size="16">
+        <text x="100" y="20" fill="#000" font-weight="bold">
+            <tspan x="100" dy="0">NEXT.JS</tspan>
+            <tspan x="100" dy="25">REACT</tspan>
+            <tspan x="100" dy="25">TYPESCRIPT</tspan>
+            <tspan x="100" dy="25">TAILWINDCSS</tspan>
+            <tspan x="100" dy="25">NESTJS</tspan>
+            <tspan x="100" dy="25">PYTHON</tspan>
+            <tspan x="100" dy="25">RUST</tspan>
+        </text>
+    </g>
+</svg>
