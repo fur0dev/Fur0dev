@@ -44,7 +44,7 @@ ROLE: FULL-STACK DEVELOPER
   <picture>
     <source srcset="./svg/light/stack.png" media="(prefers-color-scheme: light)">
     <source srcset="./svg/dark/stack.png" media="(prefers-color-scheme: dark)">
-    <img src="./svg/dark/stack.png" alt="Technologies Stack" width="300">
+    <img src="./svg/dark/stack.png" alt="Technologies Stack" width="225">
   </picture>
 </div>
 
