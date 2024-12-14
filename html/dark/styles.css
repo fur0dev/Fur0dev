@@ -21,6 +21,16 @@ body {
   font-size: 18px;
   align-content: left;
 }
+
+* {
+  font-family: "NineteenNinetyThree-L1Ay", sans-serif;
+  scrollbar-width: none;
+}
+
+.pressstart {
+  font-family: "PressStart2P-Regular", monospace;
+}
+
 .japanese {
   font-family: "NineteenNinetyThree-L1Ay", sans-serif;
 }
@@ -29,7 +39,7 @@ fieldset {
   flex-direction: column;
   border: 3px solid #ffffff;
   margin-left: 50px;
-  max-width: 1175px;
+  max-width: 850px;
   background-color: rgba(13, 17, 23, 0.9);
 }
 
