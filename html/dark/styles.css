@@ -23,7 +23,7 @@ fieldset {
   flex-direction: column;
   border: 3px solid #ffffff;
   margin-left: 50px;
-  max-width: 1050px;
+  max-width: 1000px;
   background-color: rgba(13, 17, 23, 0.9);
 }
 

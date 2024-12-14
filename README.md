@@ -1,23 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="image/light/identity.png">
-  <source media="(prefers-color-scheme: dark)" srcset="image/dark/identity.png">
-  <img alt="Identity" src="image/light/identity.png" >
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="image/light/user.png">
-  <source media="(prefers-color-scheme: dark)" srcset="image/dark/user.png">
-  <img alt="User" src="image/light/user.png" >
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="image/light/techs.png">
-  <source media="(prefers-color-scheme: dark)" srcset="image/dark/techs.png">
-  <img alt="Techs" src="image/light/techs.png" >
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="image/light/projects.png">
-  <source media="(prefers-color-scheme: dark)" srcset="image/dark/projects.png">
-  <img alt="Projects" src="image/light/projects.png" >
+  <source media="(prefers-color-scheme: light)" srcset="image/dark/all.png">
+  <source media="(prefers-color-scheme: dark)" srcset="image/dark/all.png">
+  <img alt="ALL" src="image/dark/all.png" >
 </picture>
 <br>
 <picture>
