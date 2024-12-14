@@ -1,40 +1,39 @@
-<div align="center">
+<div align="center" style="text-transform: uppercase; font-weight: bold;">
 
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; margin: 10px; width: 300px; background-color: #0d1117;">
-<table style="border: none; width: 100%">
-<tr><td align="center" style="border: none;">
-<span style="font-family: monospace;">フロデヴ • FLODEVV</span><br/>
-<span style="font-family: monospace;">[SYSTEM]: WELCOME !</span>
-</td></tr>
-</table>
-</div>
+<fieldset align="left" >
+<legend>WELCOME.MESSAGE</legend>
+>
+<span class="latin">welcome</span>
+<span class="latin">bienvenue</span>
+<span class="asian">ようこそ</span>
+<span class="latin">bienvenido</span>
+<span class="asian">환영합니다</span>
+<span class="asian">欢迎</span>
+<span class="arabic">أهلا بك</span>
+<span class="asian">Добро пожаловать</span>
+<span class="hebreu">ברוך הבא</span> <br>
+[USER]: FLODEVV <br>
 
-`[ ABOUT ME ]`
+</fieldset>
 
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; margin: 10px; width: 300px; background-color: #0d1117;">
-<table>
-<tr><td>
-STATUS: STUDENT </br>
-WORK: YES </br>
-ROLE: FULL-STACK DEVELOPER
-</td></tr>
-</table>
-</div>
+<fieldset align="left">
+<legend>USER.INFO</legend>
+> <b>
+STATUS : STUDENT <br>
+WORK : TRUE <br>
+ROLE : FULL-STACK_DEVELOPER <br>
 
-`[ CURRENT PROJECTS ]`
+</fieldset>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?message=MoriohCho-Radio&logo=github&label=&color=ffffff&logoColor=000000&labelColor=ffffff&style=for-the-badge">
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?message=MoriohCho-Radio&logo=github&label=&color=0d1116&logoColor=ffffff&labelColor=0d1116&style=for-the-badge">
-  <img alt="MoriohCho-Radio" src="https://img.shields.io/static/v1?message=MoriohCho-Radio&logo=github&label=&color=0d1116&logoColor=ffffff&labelColor=0d1116&style=for-the-badge">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/static/v1?message=ZAPANI&logo=github&label=&color=ffffff&logoColor=000000&labelColor=ffffff&style=for-the-badge">
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/static/v1?message=ZAPANI&logo=github&label=&color=0d1116&logoColor=ffffff&labelColor=0d1116&style=for-the-badge">
-  <img alt="ZAPANI" src="https://img.shields.io/static/v1?message=ZAPANI&logo=github&label=&color=0d1116&logoColor=ffffff&labelColor=0d1116&style=for-the-badge">
-</picture>
+<fieldset align="left">
+<legend>ACTIVE.PROJECTS</legend>
+>
+ <a href="https://github.com/FloDevv/MoriohCho-Radio">[MORIOHCHO-RADIO]</a> <br>
+ <a href="https://github.com/FloDevv/Zapani">[ZAPANI]</a>
+</fieldset>
 
-`[ MAIN TECHS ]`
+<fieldset>
+<legend>SYSTEM.TECHS</legend>
 
 <table style="border: none; background: none; width: 100%;">
 <tr style="border: none; background: none;">
@@ -42,9 +41,9 @@ ROLE: FULL-STACK DEVELOPER
 
 <div align="center" style="max-width: 300px;">
   <picture>
-    <source srcset="./svg/light/stack.png" media="(prefers-color-scheme: light)">
-    <source srcset="./svg/dark/stack.png" media="(prefers-color-scheme: dark)">
-    <img src="./svg/dark/stack.png" alt="Technologies Stack" width="225">
+    <source srcset="./svg/light/stack.svg" media="(prefers-color-scheme: light)">
+    <source srcset="./svg/dark/stack.svg" media="(prefers-color-scheme: dark)">
+    <img src="./svg/dark/stack.svg" alt="Technologies Stack" width="225">
   </picture>
 </div>
 
@@ -61,10 +60,12 @@ ROLE: FULL-STACK DEVELOPER
 </tr>
 </table>
 
-`[ SYSTEM METRICS ]`
+</fieldset>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile-ui.vercel.app/api/github-stats?username=FloDevv&include_all_commits=true&pixelate_avatar=true&background=linear-gradient%280deg%2C+%23ffffff+0%25%2C+%23ffffff+100%25%29&color=%23000000">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile-ui.vercel.app/api/github-stats?username=FloDevv&include_all_commits=true&pixelate_avatar=true&background=linear-gradient%280deg%2C+%230d1116FF+0%25%2C+%230d1116FF+100%25%29&color=%23ffffff">
   <img alt="GitHub Stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=FloDevv&include_all_commits=true&pixelate_avatar=true&background=linear-gradient%280deg%2C+%230d1116FF+0%25%2C+%230d1116FF+100%25%29&color=%23ffffff">
 </picture>
+
+</div>
