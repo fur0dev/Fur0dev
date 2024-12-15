@@ -39,14 +39,17 @@ fieldset {
   flex-direction: column;
   border: 3px solid #ffffff;
   margin-left: 50px;
-  max-width: 850px;
+  width: 850px; /* Replace max-width with fixed width */
+  max-width: none;
   background-color: rgba(13, 17, 23, 0.9);
+  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
 
 .terminal-box {
   display: flex;
   align-items: flex-start;
-  margin-bottom: -40px;
+  margin-bottom: 0;
 }
 
 .terminal-box::before {
@@ -62,4 +65,27 @@ fieldset {
 a {
   color: white;
   text-decoration: none;
+}
+.tech-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Add back justify-content */
+  padding: 1px 0;
+  width: 100%; /* Ensure full width usage */
+  margin-right: 15px; /* Add margin for icon spacing */
+}
+
+.tech-icon {
+  width: 20px;
+  height: 20px;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  -ms-interpolation-mode: nearest-neighbor;
+  margin-left: auto; /* Push icon to the right */
+}
+
+.terminal-box pre {
+  margin: 0;
+  padding: 5px;
+  line-height: 1.2;
 }
