@@ -1,8 +1,9 @@
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img alt="ALL" src="image/window.gif" style="width: 45%;">
-  <img alt="ALL" src="image/ja.gif" style="width: 45%;">
-</div>
-
+<table border="0" style="border-collapse: collapse;">
+  <tr>
+    <td style="padding: 0; border: none;"><img alt="ALL" src="image/window.gif"></td>
+    <td style="padding: 0; border: none;"><img alt="ALL" src="image/ja.gif"></td>
+  </tr>
+</table>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="image/dark/all.png">
   <source media="(prefers-color-scheme: dark)" srcset="image/dark/all.png">
