@@ -39,7 +39,7 @@ fieldset {
   flex-direction: column;
   border: 3px solid #ffffff;
   margin-left: 50px;
-  width: 850px; /* Replace max-width with fixed width */
+  width: 855px; /* Replace max-width with fixed width */
   max-width: none;
   background-color: rgba(13, 17, 23, 0.9);
   margin-bottom: 0px;
