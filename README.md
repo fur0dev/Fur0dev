@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: center; gap: 10px;">
   <img alt="ALL" src="image/window.gif" style="width: 45%;">
   <img alt="ALL" src="image/ja.gif" style="width: 45%;">
 </div>
