@@ -1,6 +1,7 @@
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img alt="ALL" src="image/window.gif">
-  <img alt="ALL" src="image/ja.gif">
+<div style="text-align: center;">
+  <img alt="ALL" src="image/window.gif" style="float: left; width: 49%;">
+  <img alt="ALL" src="image/ja.gif" style="float: right; width: 49%;">
+  <div style="clear: both;"></div>
 </div>
 
 <picture>
