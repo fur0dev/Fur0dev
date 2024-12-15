@@ -1,5 +1,5 @@
-<img alt="ALL" src="image/window.gif" style="display: inline-block; width: 400px;">
-<img alt="ALL" src="image/ja.gif" style="display: inline-block; width: 400px;">
+<img alt="ALL" src="image/window.gif" style="display: inline-block; width: 300px;">
+<img alt="ALL" src="image/ja.gif" style="display: inline-block; width: 300px;">
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="image/dark/all.png">
