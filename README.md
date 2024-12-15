@@ -1,7 +1,9 @@
-<div style="display: flex; gap: 10px;">
-  <img alt="ALL" src="image/window.gif" >
-  <img alt="ALL" src="image/ja.gif" >
-</div>
+<table>
+  <tr>
+    <td><img alt="ALL" src="image/window.gif"></td>
+    <td><img alt="ALL" src="image/ja.gif"></td>
+  </tr>
+</table>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="image/dark/all.png">
   <source media="(prefers-color-scheme: dark)" srcset="image/dark/all.png">
