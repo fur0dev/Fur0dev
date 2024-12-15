@@ -1,5 +1,7 @@
-<img alt="ALL" src="image/window.gif" style="display: inline-block; width: 300px;">
-<img alt="ALL" src="image/ja.gif" style="display: inline-block; width: 300px;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img alt="ALL" src="image/window.gif" style="width: 45%;">
+  <img alt="ALL" src="image/ja.gif" style="width: 45%;">
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="image/dark/all.png">
