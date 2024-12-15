@@ -13,7 +13,7 @@
 }
 
 body {
-  margin-top: 50;
+  margin-top: 0;
   padding: 0;
   background-color: #0d1116;
   color: #ffffff;
@@ -69,10 +69,7 @@ a {
 .tech-row {
   display: flex;
   align-items: center;
-  justify-content: space-between; /* Add back justify-content */
-  padding: 1px 0;
   width: 100%; /* Ensure full width usage */
-  margin-right: 15px; /* Add margin for icon spacing */
 }
 
 .tech-icon {
@@ -81,7 +78,7 @@ a {
   image-rendering: pixelated;
   image-rendering: crisp-edges;
   -ms-interpolation-mode: nearest-neighbor;
-  margin-left: auto; /* Push icon to the right */
+  /* filter: grayscale(100%); */
 }
 
 .terminal-box pre {
